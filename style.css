@@ -1,0 +1,96 @@
+body {  
+	margin: 0;
+ }
+.login {
+	margin-left: 5px;
+	border-radius: 5px;
+	margin-top: 30px; 	
+	width: 500px;
+	height: 470px;
+	background-color: #361315;
+ }
+ .logincad {
+	margin-left: 5px;
+	border-radius: 5px;
+	margin-top: 30px; 	
+	width: 400px;
+	height: 305px;
+	background-color: #361315;
+ }
+ .loginint{ 
+ 	width: 100%;
+	height: 100%;
+ }
+ .loginint a { 
+ 	text-decoration: none;
+ }
+ .loginint h2 { 
+ 	color: #E7DFDD;
+ 	padding-top: 10px;
+ 	line-height: 20px;
+ 	font-size: 25px;
+ 	font-family: 'Source Sans Pro', sans-serif;
+ 	margin-left: 5px;
+ 	margin-bottom: 20px;
+  }
+ .input-area {
+ 	clear: both;
+	margin: 0 0 1px;
+	display: inline-block;
+	width: 100%;
+}
+.input-area input { 
+	width: 200px;
+	float: left;
+	-webkit-box-shadow: 0 1px 4px 0 #adadad;
+	box-shadow: 0 1px 4px 0 #adadad;
+	border: 0;
+	font-size: 15px;
+	padding: 10px;
+	font-family: Open Sans,sans-serif;
+	font-weight: 200;
+	border: 1px solid #fff;
+	border-radius: 5px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+ }
+ .button {
+ 	outline-style: none;
+ 	color: #E7DFDD;
+ 	border-color: #C74F55;
+ 	margin-left: 20px;
+ 	border-radius: 5px;
+ 	width: 100px;
+ 	height: 40px;
+	background-color: #832C31;
+}
+
+.opcoes {
+	display: flex;
+	-webkit-appearance: none;
+	border-radius: 10px;
+	margin-right: 10px;
+}
+
+.opcoes select {
+	width: 180px;
+	height: 40px;
+	font-size: 10pt;
+	align-content: center;
+	font-family: Open Sans,sans-serif;
+	padding: 0 0 10px;
+}
+
+.legendas {
+	font-size: 12pt;
+	color: #E7DFDD;
+	letter-spacing: 1px;
+	padding: 0 0 0 10px;
+}
+
+#plano-de-financiamento {
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+}
